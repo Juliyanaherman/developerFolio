@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.699532b1.css",
-    "main.js": "/developerFolio/static/js/main.e63296a9.js",
+    "main.js": "/developerFolio/static/js/main.b8422811.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
@@ -10,18 +10,18 @@
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/desainkartinilogo.png": "/developerFolio/static/media/desainkartinilogo.82257b044e56cda80d0b.png",
     "static/media/quoraLogo.png": "/developerFolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/airbnbLogo.png": "/developerFolio/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/BBIAPC2Logo.png": "/developerFolio/static/media/BBIAPC2Logo.1fbefe084925ff810e89.png",
     "static/media/facebookLogo.png": "/developerFolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
     "static/media/uhologo.png": "/developerFolio/static/media/uhologo.18d7fb67eaa9ad360c75.png",
     "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/saayaHealthLogo.webp": "/developerFolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
-    "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.699532b1.css.map": "/developerFolio/static/css/main.699532b1.css.map",
-    "main.e63296a9.js.map": "/developerFolio/static/js/main.e63296a9.js.map",
+    "main.b8422811.js.map": "/developerFolio/static/js/main.b8422811.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.699532b1.css",
-    "static/js/main.e63296a9.js"
+    "static/js/main.b8422811.js"
   ]
 }
